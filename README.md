@@ -16,7 +16,8 @@
 
 ## 📊 3. Executive Dashboard & Insights
 
-### `[DRAG AND DROP YOUR HR EXCEL SCREENSHOT HERE]`
+### <img width="1015" height="401" alt="image" src="https://github.com/user-attachments/assets/2e92d440-187f-48ab-b716-7cec93630645" />
+
 
 *   **💰 Salary Structures & Headcount Distribution:** The IT department records the highest average monthly salary (₱72,441.15), while Marketing has the lowest (₱65,619.96). The highest-paying departments (IT and Finance) maintain the fewest total employees (122 and 114 respectively), implying their work may be more complex or specialized. Conversely, lower-paying departments like Marketing, Sales, and Operations maintain steady employee counts, suggesting competitive engagement despite lower pay.
 *   **⏱ Training and Performance ROI:** A clear relationship appears between Training Hours and Performance Ratings, suggesting that organizational training directly supports higher workplace performance. This is especially true for the HR department (5,255 training hours) and Customer Support (4,823 training hours), which both rank exceptionally high in both collective training and performance delivery.
